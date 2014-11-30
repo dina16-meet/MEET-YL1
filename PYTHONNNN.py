@@ -1,1 +1,2 @@
 print ("REBOL")
+print ("clean")
